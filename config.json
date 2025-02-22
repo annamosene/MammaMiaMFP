@@ -40,11 +40,11 @@
           "DDLStream":{
               "url":"https://ddlstreamitaly.co",
               "cookies" : {
-                  "ips4_device_key": null,
-                  "ips4_IPSSessionFront": null,
-                  "ips4_member_id": null,
-                  "ips4_login_key": null
-                  },
+                "ips4_device_key": "e76de2d09214c678fa18e317e1aab74b",
+                "ips4_IPSSessionFront": "a43ab7f014e10d61c58412c436b2018b",
+                "ips4_member_id": "4030150",
+                "ips4_login_key": "5cb83aeddd61ee9dc9d8727726cabc94"
+            },
               "enabled":"1"
           },
           "Guardaserie":{
