@@ -86,6 +86,22 @@ MANIFEST = {
                     "options": ["Rai", "Mediaset", "Sky", "Euronews", "La7", "Warner Bros", "FIT", "Sportitalia","RSI","DAZN", "Rakuten", "Pluto", "A+E", "Paramount", "Chill"]
                 }
             ]
+        },
+         {
+            "type": "events",
+            "id": "tv_channels",
+            "name": "MammaMia",
+            "behaviorHints": {
+                "configurable": True,
+                "configurationRequired": True
+                },
+            "extra": [
+                {
+                    "name": "genre",
+                    "isRequired": False,
+                    "options": ["Rai", "Mediaset", "Sky", "Euronews", "La7", "Warner Bros", "FIT", "Sportitalia","RSI","DAZN", "Rakuten", "Pluto", "A+E", "Paramount", "Chill"]
+                }
+            ]
         }
     ],
     "resources": ["stream", "catalog", "meta"],
