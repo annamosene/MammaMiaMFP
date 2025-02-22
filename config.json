@@ -1,7 +1,7 @@
 {
     "Siti": {
            "StreamingCommunity": {
-               "url": "https://streamingcommunity.paris",
+               "url": "https://streamingcommunity.lu",
                "SC_ForwardProxy": "0",
                "SC_PROXY": "0",
                "VX_ForwardProxy": "0",
@@ -15,7 +15,7 @@
            "Tantifilm":{
                "url": "https://www.tanti.bond",
                "TF_ForwardProxy": "0",
-               "TF_PROXY": "0",
+               "TF_PROXY": "1",
                "enabled": "1"
            },
            "Mysterius":{
@@ -31,7 +31,7 @@
           },
           "CB01":{
               "url":"https://cb01new.loan",
-              "CB_PROXY":"0",
+              "CB_PROXY":"1",
               "CB_ForwardProxy":"0",
               "MX_ForwardProxy":"0",
               "MX_PROXY":"0",
@@ -51,13 +51,13 @@
               "url":"https://guardaserietv.mom",
               "enabled":"1",
               "GS_ForwardProxy":"0",
-              "GS_PROXY":"0"
+              "GS_PROXY":"1"
           },
           "GuardaHD":{
               "url":"https://mostraguarda.stream",
               "enabled":"1",
               "GH_ForwardProxy":"0",
-              "GH_PROXY":"0"
+              "GH_PROXY":"1"
           },
           "Onlineserietv":{
               "domain":"com",
@@ -69,7 +69,7 @@
               "url":"https://www.animeworld.so",
               "enabled":"1",
               "AW_ForwardProxy":"0",
-              "AW_PROXY":"0"
+              "AW_PROXY":"1"
           },
           "SkyStreaming":{
               "url":"https://skystreaming.watch",
@@ -84,7 +84,7 @@
        "load_env": "0",
        "HOST": "0.0.0.0",
        "PORT": "8080",
-       "Name": "MammaMia",
+       "Name": "MammaPublica",
        "Icon": "🍕️",
        "Public_Instance": "0",
        "Remote_Instance": "1",
