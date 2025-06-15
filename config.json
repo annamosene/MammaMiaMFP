@@ -1,7 +1,7 @@
 {
     "Siti": {
         "StreamingCommunity": {
-            "url": "https://streamingunity.agency",
+            "url": "https://streamingunity.cam",
             "SC_ForwardProxy": "0",
             "SC_PROXY": "0",
             "VX_ForwardProxy": "0",
@@ -13,7 +13,7 @@
             "enabled": "1"
         },
         "Tantifilm": {
-            "url": "https://www.alliance4creativity.com",
+            "url": "https://www.tantifilm.food",
             "TF_ForwardProxy": "0",
             "TF_PROXY": "1",
             "enabled": "1"
